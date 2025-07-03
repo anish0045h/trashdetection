@@ -1,2 +1,3 @@
 # TrashDetection
-Under Water Object Detection Using YOLO
+Underwater Object Detection Using YOLO
+
